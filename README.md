@@ -1,2 +1,2 @@
 # BikeRio
-A project to analyse the demand of bikes (public) of Rio de Janeiro city.
+A project to analyze the demand of (public) bikes of Rio de Janeiro city.
